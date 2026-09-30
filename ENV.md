@@ -1,0 +1,11 @@
+# Current env state
+- Rust
+  - Cargo: `cargo 1.98.1 (797e8a9bc 2026-08-05)`
+  - Rustc: `rustc 1.98.1 (48a229cea 2026-09-01)`
+- Go:
+  - Go: `1.27.1`
+- Python
+  - python: `3.14.7` (uv python version manager)
+- Node
+  - node: `24.10.0` (nvm node version manager)
+- ffmpeg: `9.0.4`
